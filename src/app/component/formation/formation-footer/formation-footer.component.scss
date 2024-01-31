@@ -1,0 +1,15 @@
+.footer-section {
+  background-color: #333;
+  color: #fff;
+  padding: 10px 1rem;
+  
+  p {
+    color: #aaa;
+  }
+
+  .container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+}
